@@ -1,0 +1,407 @@
+Run,amino_acid_change,genome_position,reference,alternate,codon_change,read_depth,alternate_read_depth,collection_date,host,geo_loc_name,SRA_organism,analysis_updated
+DRR678072,E484D,23014,A,C,gaA/gaC,4490,1837,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:19:34.584227 UTC
+DRR678075,E484D,23014,A,C,gaA/gaC,778,544,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:39:18.802638 UTC
+DRR678076,E484D,23014,A,C,gaA/gaC,4818,3106,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:25:20.867436 UTC
+DRR678077,E484D,23014,A,C,gaA/gaC,4692,4341,5/21/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:54:22.201641 UTC
+DRR678078,E484D,23014,A,C,gaA/gaC,4818,1430,6/30/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:31:58.588648 UTC
+DRR678082,E484D,23014,A,C,gaA/gaC,468,468,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:07:24.782756 UTC
+DRR678084,E484D,23014,A,C,gaA/gaC,631,622,7/11/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:07:44.41822 UTC
+DRR678087,E484D,23014,A,C,gaA/gaC,715,715,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:40:28.341482 UTC
+DRR678090,E484D,23014,A,C,gaA/gaC,791,791,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:43:38.483439 UTC
+DRR678092,E484D,23014,A,C,gaA/gaC,1594,1593,5/21/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:14:02.285278 UTC
+DRR678093,E484D,23014,A,C,gaA/gaC,1623,1617,7/15/21,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:29:46.722968 UTC
+DRR678094,E484D,23014,A,C,gaA/gaC,1327,1327,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:08:59.778662 UTC
+DRR678096,E484D,23014,A,C,gaA/gaC,935,935,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:49:44.15746 UTC
+DRR678097,E484D,23014,A,C,gaA/gaC,3276,3273,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 15:15:22.449377 UTC
+DRR678098,E484D,23014,A,C,gaA/gaC,4166,4146,5/10/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-05-19 16:00:39.344437 UTC
+DRR878517,E484D,23014,A,C,gaA/gaC,2172,2171,6/19/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 15:40:24.906977 UTC
+DRR878519,E484D,23014,A,C,gaA/gaC,1699,1565,6/19/22,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 15:40:25.137736 UTC
+DRR878520,E484D,23014,A,C,gaA/gaC,3806,3806,11/25/23,Chlorocebus aethiops,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 15:42:20.348662 UTC
+DRR878521,E484D,23014,A,C,gaA/gaC,4247,4244,11/25/23,Chlorocebus aethiops,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:21:14.644247 UTC
+DRR878522,E484D,23014,A,C,gaA/gaC,4551,4530,11/25/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:00:07.234106 UTC
+DRR878523,E484D,23014,A,C,gaA/gaC,4473,4417,11/25/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:08:31.50291 UTC
+DRR878524,E484D,23014,A,C,gaA/gaC,4558,1758,1/5/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:21:52.793345 UTC
+DRR878525,E484D,23014,A,C,gaA/gaC,4526,2728,1/5/23,Homo sapiens,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 15:59:40.432258 UTC
+DRR878526,E484D,23014,A,C,gaA/gaC,4581,4578,5/4/23,Chlorocebus aethiops,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:04:18.88004 UTC
+DRR878527,E484D,23014,A,C,gaA/gaC,4770,4770,5/4/23,Chlorocebus aethiops,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:00:50.699223 UTC
+DRR878528,E484D,23014,A,C,gaA/gaC,4650,4645,5/4/23,Chlorocebus aethiops,South Korea,Severe acute respiratory syndrome coronavirus 2,2025-12-15 16:10:34.74876 UTC
+ERR10224019,E484D,23014,A,T,gaA/gaT,53,53,,,,Severe acute respiratory syndrome coronavirus 2,2023-02-06 20:57:11.882027 UTC
+ERR10381934,E484D,23014,A,T,gaA/gaT,168,168,,,,Severe acute respiratory syndrome coronavirus 2,2022-10-26 20:00:58.731807 UTC
+ERR11762956,E484D,23014,A,T,gaA/gaT,712,704,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-09 15:05:38.942535 UTC
+ERR11821072,E484D,23014,A,T,gaA/gaT,617,614,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-21 15:19:54.134626 UTC
+ERR11822639,E484D,23014,A,T,gaA/gaT,483,482,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-04 21:27:40.84267 UTC
+ERR11825983,E484D,23014,A,T,gaA/gaT,447,447,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-05 00:15:39.601414 UTC
+ERR11826223,E484D,23014,A,T,gaA/gaT,5188,5183,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-21 14:25:29.244437 UTC
+ERR11834176,E484D,23014,A,C,gaA/gaC,1837,1392,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-05 02:20:54.612142 UTC
+ERR11838885,E484D,23014,A,C,gaA/gaC,689,604,,,,Severe acute respiratory syndrome coronavirus 2,2023-09-04 15:36:42.600503 UTC
+ERR12818318,E484D,23014,A,T,gaA/gaT,198,198,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:41:43.774884 UTC
+ERR12819285,E484D,23014,A,T,gaA/gaT,107,107,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:48:04.366165 UTC
+ERR12822441,E484D,23014,A,T,gaA/gaT,139,139,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:39:23.447999 UTC
+ERR12824032,E484D,23014,A,T,gaA/gaT,30,30,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:46:44.153993 UTC
+ERR12824106,E484D,23014,A,T,gaA/gaT,567,567,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:55:01.022426 UTC
+ERR12824917,E484D,23014,A,T,gaA/gaT,636,636,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-06 14:48:55.802596 UTC
+ERR12838163,E484D,23014,A,T,gaA/gaT,49,19,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-08 14:27:09.141606 UTC
+ERR13152954,E484D,23014,A,T,gaA/gaT,1238,1238,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-10 14:26:13.423183 UTC
+ERR13154465,E484D,23014,A,T,gaA/gaT,1163,1163,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-12 14:27:49.083523 UTC
+ERR13155785,E484D,23014,A,T,gaA/gaT,122,122,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-12 14:44:23.877246 UTC
+ERR13156052,E484D,23014,A,T,gaA/gaT,1209,1205,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-11 15:01:28.086428 UTC
+ERR13180756,E484D,23014,A,T,gaA/gaT,478,478,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-05 23:22:32.189513 UTC
+ERR13182521,E484D,23014,A,T,gaA/gaT,985,985,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-16 15:55:49.688128 UTC
+ERR13182904,E484D,23014,A,T,gaA/gaT,100,100,,,,Severe acute respiratory syndrome coronavirus 2,2024-08-05 23:23:31.350786 UTC
+ERR14873299,E484D,23014,A,C,gaA/gaC,32,28,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-12 15:38:06.52418 UTC
+ERR14935190,E484D,23014,A,T,gaA/gaT,33,16,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-13 15:31:51.210334 UTC
+ERR14935255,E484D,23014,A,T,gaA/gaT,21,10,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-12 17:30:42.495061 UTC
+ERR14935310,E484D,23014,A,T,gaA/gaT,58,23,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-17 15:20:22.133547 UTC
+ERR14935339,E484D,23014,A,T,gaA/gaT,51,11,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-12 17:14:01.017179 UTC
+ERR14935412,E484D,23014,A,T,gaA/gaT,40,25,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-17 15:27:33.023747 UTC
+ERR14935483,E484D,23014,A,T,gaA/gaT,26,13,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-12 15:58:59.268266 UTC
+ERR14935723,E484D,23014,A,T,gaA/gaT,13,11,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-13 15:33:00.467322 UTC
+ERR14935751,E484D,23014,A,T,gaA/gaT,30,22,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-13 16:01:44.007729 UTC
+ERR14935870,E484D,23014,A,T,gaA/gaT,18,13,,,,Severe acute respiratory syndrome coronavirus 2,2025-11-12 17:27:14.830738 UTC
+ERR4642133,E484D,23014,A,C,gaA/gaC,146,49,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 03:03:25.103348 UTC
+ERR4644587,E484D,23014,A,C,gaA/gaC,164,43,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 21:24:26.590727 UTC
+ERR5094268,E484D,23014,A,C,gaA/gaC,1168,320,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 02:55:24.852022 UTC
+ERR5185967,E484D,23014,A,T,gaA/gaT,349,54,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 20:19:01.65075 UTC
+ERR5198732,E484D,23014,A,C,gaA/gaC,192,48,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 02:25:17.689174 UTC
+ERR5212862,E484D,23014,A,T,gaA/gaT,189,184,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 23:36:35.265223 UTC
+ERR5228135,E484D,23014,A,C,gaA/gaC,1093,446,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 18:44:48.494263 UTC
+ERR5230968,E484D,23014,A,C,gaA/gaC,4738,4736,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 00:45:34.437496 UTC
+ERR5271846,E484D,23014,A,T,gaA/gaT,402,66,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-26 20:28:58.00486 UTC
+ERR5272361,E484D,23014,A,C,gaA/gaC,298,295,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 08:48:06.398814 UTC
+ERR5473426,E484D,23014,A,T,gaA/gaT,1420,261,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-20 20:09:27.318661 UTC
+ERR5497264,E484D,23014,A,C,gaA/gaC,309,301,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 13:47:24.099188 UTC
+ERR5500974,E484D,23014,A,T,gaA/gaT,514,262,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-27 03:27:16.804393 UTC
+ERR5855257,E484D,23014,A,C,gaA/gaC,124,124,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 17:26:14.319337 UTC
+ERR5877694,E484D,23014,A,T,gaA/gaT,133,26,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 07:41:14.072103 UTC
+ERR5878273,E484D,23014,A,C,gaA/gaC,302,296,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-28 06:51:06.505754 UTC
+ERR5878299,E484D,23014,A,C,gaA/gaC,306,305,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 05:49:53.060764 UTC
+ERR5921789,E484D,23014,A,C,gaA/gaC,326,326,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 05:27:31.757638 UTC
+ERR5964946,E484D,23014,A,C,gaA/gaC,393,205,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-20 23:29:03.857553 UTC
+ERR5985995,E484D,23014,A,T,gaA/gaT,107,51,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 13:26:19.165344 UTC
+ERR6332100,E484D,23014,A,T,gaA/gaT,260,52,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 06:31:04.65906 UTC
+ERR6433194,E484D,23014,A,T,gaA/gaT,33,33,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 21:44:14.68941 UTC
+ERR6434199,E484D,23014,A,T,gaA/gaT,115,115,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 19:43:48.5607 UTC
+ERR6474924,E484D,23014,A,C,gaA/gaC,289,287,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 13:42:07.755664 UTC
+ERR6498585,E484D,23014,A,C,gaA/gaC,184,183,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 14:30:38.510464 UTC
+ERR6515571,E484D,23014,A,C,gaA/gaC,270,54,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-26 08:43:11.348613 UTC
+ERR6637765,E484D,23014,A,C,gaA/gaC,357,87,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 08:32:08.184306 UTC
+ERR6772884,E484D,23014,A,C,gaA/gaC,434,256,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 19:55:30.730091 UTC
+ERR6837972,E484D,23014,A,C,gaA/gaC,379,335,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 11:33:57.814947 UTC
+ERR7031646,E484D,23014,A,C,gaA/gaC,281,279,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 12:13:19.621192 UTC
+ERR7040361,E484D,23014,A,T,gaA/gaT,84,84,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-28 04:35:43.303154 UTC
+ERR7041092,E484D,23014,A,T,gaA/gaT,2155,2152,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 12:26:17.83048 UTC
+ERR7043132,E484D,23014,A,T,gaA/gaT,625,625,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 02:14:57.713187 UTC
+ERR7047414,E484D,23014,A,T,gaA/gaT,199,99,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 17:15:07.029673 UTC
+ERR7047748,E484D,23014,A,T,gaA/gaT,1713,1711,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 03:00:43.864707 UTC
+ERR7109716,E484D,23014,A,T,gaA/gaT,63,63,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 01:51:57.652302 UTC
+ERR7119964,E484D,23014,A,T,gaA/gaT,207,207,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 13:00:13.070739 UTC
+ERR7138445,E484D,23014,A,T,gaA/gaT,147,96,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 01:24:33.400329 UTC
+ERR7164222,E484D,23014,A,C,gaA/gaC,346,346,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 05:01:46.907968 UTC
+ERR7177860,E484D,23014,A,T,gaA/gaT,799,799,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 01:09:20.825477 UTC
+ERR7201972,E484D,23014,A,T,gaA/gaT,12,12,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-26 23:42:39.243572 UTC
+ERR7208370,E484D,23014,A,T,gaA/gaT,1043,1043,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 14:13:40.580373 UTC
+ERR7232717,E484D,23014,A,T,gaA/gaT,261,257,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-28 04:14:34.099401 UTC
+ERR7242659,E484D,23014,A,C,gaA/gaC,1080,371,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 22:13:02.791321 UTC
+ERR7267975,E484D,23014,A,T,gaA/gaT,526,526,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 12:38:57.996675 UTC
+ERR7281971,E484D,23014,A,C,gaA/gaC,513,513,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-27 14:41:12.06715 UTC
+ERR7293128,E484D,23014,A,T,gaA/gaT,785,193,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 03:45:11.824042 UTC
+ERR7331218,E484D,23014,A,C,gaA/gaC,112,67,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-24 11:56:42.212175 UTC
+ERR7348116,E484D,23014,A,T,gaA/gaT,951,855,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-19 03:57:07.476971 UTC
+ERR7400741,E484D,23014,A,C,gaA/gaC,175,102,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-17 00:54:10.356924 UTC
+ERR7480535,E484D,23014,A,C,gaA/gaC,465,465,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 10:41:15.012437 UTC
+ERR7494376,E484D,23014,A,C,gaA/gaC,266,264,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 18:39:21.4524 UTC
+ERR7646991,E484D,23014,A,C,gaA/gaC,251,135,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 04:07:53.643097 UTC
+ERR7683082,E484D,23014,A,C,gaA/gaC,1740,1572,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 00:23:50.629141 UTC
+ERR7696993,E484D,23014,A,C,gaA/gaC,48,43,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 14:29:58.392349 UTC
+ERR7717329,E484D,23014,A,T,gaA/gaT,905,322,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 10:38:09.156633 UTC
+ERR7723116,E484D,23014,A,C,gaA/gaC,84,36,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-19 00:53:27.179965 UTC
+ERR7792146,E484D,23014,A,C,gaA/gaC,216,56,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-27 14:43:35.706108 UTC
+ERR7811847,E484D,23014,A,C,gaA/gaC,255,255,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-17 19:37:25.92952 UTC
+ERR7870940,E484D,23014,A,T,gaA/gaT,431,428,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-20 20:38:51.073213 UTC
+ERR8024279,E484D,23014,A,T,gaA/gaT,380,380,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-28 22:12:34.581586 UTC
+ERR8189918,E484D,23014,A,T,gaA/gaT,542,443,,,,Severe acute respiratory syndrome coronavirus 2,2022-07-20 19:29:19.142746 UTC
+ERR8238011,E484D,23014,A,C,gaA/gaC,45,41,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 05:46:12.41839 UTC
+ERR8446511,E484D,23014,A,C,gaA/gaC,103,38,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 19:45:19.728519 UTC
+ERR8527021,E484D,23014,A,C,gaA/gaC,119,68,,,,Severe acute respiratory syndrome coronavirus 2,2022-08-03 16:25:48.831613 UTC
+ERR8635213,E484D,23014,A,C,gaA/gaC,218,218,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-20 18:04:35.680588 UTC
+ERR8640431,E484D,23014,A,C,gaA/gaC,210,210,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 23:52:12.978595 UTC
+ERR8673547,E484D,23014,A,C,gaA/gaC,160,160,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 23:23:56.57609 UTC
+ERR8761572,E484D,23014,A,C,gaA/gaC,63,63,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 07:47:39.383002 UTC
+ERR8984789,E484D,23014,A,C,gaA/gaC,123,123,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 13:20:49.803048 UTC
+ERR9089020,E484D,23014,A,C,gaA/gaC,230,230,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 07:08:01.546312 UTC
+ERR9091338,E484D,23014,A,C,gaA/gaC,197,197,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 04:31:01.248593 UTC
+ERR9102147,E484D,23014,A,C,gaA/gaC,207,207,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 12:10:16.439336 UTC
+ERR9205547,E484D,23014,A,C,gaA/gaC,219,217,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 06:24:25.044214 UTC
+ERR9224287,E484D,23014,A,C,gaA/gaC,237,237,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-22 01:17:58.924012 UTC
+ERR9276283,E484D,23014,A,C,gaA/gaC,122,120,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-21 17:09:52.108739 UTC
+ERR9318395,E484D,23014,A,C,gaA/gaC,307,48,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 17:40:39.615788 UTC
+ERR9330601,E484D,23014,A,C,gaA/gaC,250,250,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-18 00:37:00.729844 UTC
+ERR9444805,E484D,23014,A,C,gaA/gaC,229,229,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-16 11:59:52.408442 UTC
+ERR9446596,E484D,23014,A,C,gaA/gaC,152,152,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-28 08:06:06.736652 UTC
+ERR9457000,E484D,23014,A,C,gaA/gaC,190,190,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-23 08:53:39.700736 UTC
+ERR9505787,E484D,23014,A,C,gaA/gaC,64,64,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-26 21:50:37.522125 UTC
+ERR9720390,E484D,23014,A,C,gaA/gaC,62,62,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-25 12:11:29.60373 UTC
+ERR9769144,E484D,23014,A,C,gaA/gaC,454,397,,,,Severe acute respiratory syndrome coronavirus 2,2022-06-28 00:40:38.676244 UTC
+SRR14387273,E484D,23014,A,T,gaA/gaT,469,440,2/15/21,Homo sapiens,USA: Pennsylvania,Severe acute respiratory syndrome coronavirus 2,2022-06-17 01:48:10.362838 UTC
+SRR14405378,E484D,23014,A,T,gaA/gaT,49,27,3/13/21,Homo sapiens,USA: Oklahoma,Severe acute respiratory syndrome coronavirus 2,2022-06-22 11:18:58.180163 UTC
+SRR14709583,E484D,23014,A,T,gaA/gaT,484,403,12/13/20,Homo sapiens,Angola: Luanda,Severe acute respiratory syndrome coronavirus 2,2022-06-26 12:37:46.968021 UTC
+SRR14836154,E484D,23014,A,C,gaA/gaC,461,366,5/28/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-20 04:07:58.18664 UTC
+SRR15041235,E484D,23014,A,C,gaA/gaC,36,15,2020,Homo sapiens,France: Limoges,Severe acute respiratory syndrome coronavirus 2,2022-08-05 14:40:34.006376 UTC
+SRR15041236,E484D,23014,A,C,gaA/gaC,92,55,2020,Homo sapiens,France: Limoges,Severe acute respiratory syndrome coronavirus 2,2022-08-02 14:36:12.860711 UTC
+SRR15041237,E484D,23014,A,C,gaA/gaC,77,45,2020,Homo sapiens,France: Limoges,Severe acute respiratory syndrome coronavirus 2,2022-08-02 14:42:44.359076 UTC
+SRR15041244,E484D,23014,A,C,gaA/gaC,81,44,2020,Homo sapiens,France: Limoges,Severe acute respiratory syndrome coronavirus 2,2022-08-02 14:42:12.324336 UTC
+SRR15283283,E484D,23014,A,T,gaA/gaT,316,312,2021,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2022-06-20 19:53:30.879112 UTC
+SRR15283450,E484D,23014,A,T,gaA/gaT,521,517,2021,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2022-06-24 08:44:34.066568 UTC
+SRR15291230,E484D,23014,A,T,gaA/gaT,3682,3682,2021-07-04/2021-07-06,,USA: California,wastewater metagenome,2022-11-11 02:30:33.750739 UTC
+SRR15520309,E484D,23014,A,T,gaA/gaT,2565,2564,8/10/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-27 11:46:55.834949 UTC
+SRR15537886,E484D,23014,A,T,gaA/gaT,31,31,8/3/21,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2022-06-10 22:21:20.587476 UTC
+SRR15595689,E484D,23014,A,C,gaA/gaC,203,53,8/13/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-26 09:42:20.71958 UTC
+SRR15736313,E484D,23014,A,C,gaA/gaC,279,216,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-22 03:52:51.353764 UTC
+SRR15736314,E484D,23014,A,C,gaA/gaC,270,73,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-27 13:46:35.581537 UTC
+SRR15736315,E484D,23014,A,C,gaA/gaC,289,107,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-26 14:58:07.563135 UTC
+SRR15736316,E484D,23014,A,C,gaA/gaC,335,123,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-23 15:39:22.087731 UTC
+SRR15736318,E484D,23014,A,C,gaA/gaC,302,73,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-16 02:33:50.279762 UTC
+SRR15736319,E484D,23014,A,C,gaA/gaC,349,136,6/16/20,Homo sapiens,United Kingdom,Severe acute respiratory syndrome coronavirus 2,2022-06-25 20:05:47.670609 UTC
+SRR15783511,E484D,23014,A,C,gaA/gaC,181,172,8/22/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-27 05:40:18.325026 UTC
+SRR15841707,E484D,23014,A,T,gaA/gaT,71,69,2021,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2022-06-27 19:29:41.273446 UTC
+SRR15862718,E484D,23014,A,C,gaA/gaC,298,298,9/1/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-19 18:25:19.102402 UTC
+SRR15863221,E484D,23014,A,C,gaA/gaC,175,174,9/1/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-22 10:24:11.331194 UTC
+SRR15863325,E484D,23014,A,C,gaA/gaC,56,17,9/1/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-23 22:43:31.9867 UTC
+SRR15868315,E484D,23014,A,T,gaA/gaT,136,132,8/18/21,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-06-10 20:19:20.339942 UTC
+SRR15888168,E484D,23014,A,C,gaA/gaC,84,84,7/16/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-21 03:43:07.88817 UTC
+SRR15890225,E484D,23014,A,C,gaA/gaC,29,29,9/1/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-27 15:15:33.838422 UTC
+SRR15921766,E484D,23014,A,T,gaA/gaT,2030,1281,9/1/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-25 17:54:05.850358 UTC
+SRR15975946,E484D,23014,A,C,gaA/gaC,257,207,9/2/21,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2022-06-27 20:21:35.643362 UTC
+SRR16142444,E484D,23014,A,T,gaA/gaT,274,265,9/7/21,Homo sapiens,USA: Georgia,Severe acute respiratory syndrome coronavirus 2,2022-06-10 23:20:47.55196 UTC
+SRR16205892,E484D,23014,A,T,gaA/gaT,112,109,9/27/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-25 09:37:10.893413 UTC
+SRR16278842,E484D,23014,A,C,gaA/gaC,3530,1361,10/2/21,Homo sapiens,USA: Vermont,Severe acute respiratory syndrome coronavirus 2,2022-06-24 15:57:29.601539 UTC
+SRR16337627,E484D,23014,A,C,gaA/gaC,219,215,9/17/21,Homo sapiens,USA: Pennsylvania,Severe acute respiratory syndrome coronavirus 2,2022-06-10 21:40:04.479876 UTC
+SRR16380228,E484D,23014,A,T,gaA/gaT,116,105,10/11/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-23 03:51:13.805854 UTC
+SRR16513463,E484D,23014,A,C,gaA/gaC,316,302,10/8/21,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2022-06-10 22:32:38.166839 UTC
+SRR16557949,E484D,23014,A,C,gaA/gaC,31,31,9/28/21,Homo sapiens,USA: Tennessee,Severe acute respiratory syndrome coronavirus 2,2022-06-25 14:36:27.732171 UTC
+SRR16565977,E484D,23014,A,C,gaA/gaC,116,53,9/13/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-22 14:52:56.424792 UTC
+SRR16569876,E484D,23014,A,T,gaA/gaT,2766,1119,6/2/21,Homo sapiens,USA: Maryland,Severe acute respiratory syndrome coronavirus 2,2022-06-23 12:37:45.088061 UTC
+SRR16749584,E484D,23014,A,C,gaA/gaC,3516,3504,10/3/21,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2022-06-17 01:45:32.139107 UTC
+SRR16752322,E484D,23014,A,C,gaA/gaC,4229,4227,10/4/21,Homo sapiens,USA: Tennessee,Severe acute respiratory syndrome coronavirus 2,2022-06-17 04:50:47.018578 UTC
+SRR16752325,E484D,23014,A,C,gaA/gaC,1568,1567,10/4/21,Homo sapiens,USA: Tennessee,Severe acute respiratory syndrome coronavirus 2,2022-06-22 11:31:21.743978 UTC
+SRR16763194,E484D,23014,A,T,gaA/gaT,377,377,10/18/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-25 22:44:34.291898 UTC
+SRR16789583,E484D,23014,A,C,gaA/gaC,5057,5057,10/9/21,Homo sapiens,USA: Michigan,Severe acute respiratory syndrome coronavirus 2,2022-06-19 03:36:53.152199 UTC
+SRR16835752,E484D,23014,A,C,gaA/gaC,217,217,10/11/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-22 01:59:18.870352 UTC
+SRR16835753,E484D,23014,A,C,gaA/gaC,273,273,10/11/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-23 19:06:03.306635 UTC
+SRR16863636,E484D,23014,A,T,gaA/gaT,3487,1236,10/29/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-20 02:15:21.533875 UTC
+SRR16881102,E484D,23014,A,T,gaA/gaT,216,34,8/13/21,Homo sapiens,"USA: New York, New York City",Severe acute respiratory syndrome coronavirus 2,2022-06-23 08:46:07.429493 UTC
+SRR16882351,E484D,23014,A,T,gaA/gaT,1180,348,8/10/21,Homo sapiens,"USA: New York, New York City",Severe acute respiratory syndrome coronavirus 2,2022-06-22 01:34:52.060872 UTC
+SRR16901330,E484D,23014,A,C,gaA/gaC,86,86,10/20/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-23 23:53:40.716649 UTC
+SRR16923616,E484D,23014,A,C,gaA/gaC,3142,3139,11/3/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-24 00:47:39.327642 UTC
+SRR16924145,E484D,23014,A,C,gaA/gaC,2256,2254,11/1/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-19 17:06:12.850914 UTC
+SRR16924425,E484D,23014,A,C,gaA/gaC,3043,3038,11/1/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-24 19:02:41.8108 UTC
+SRR16924441,E484D,23014,A,C,gaA/gaC,3041,3041,11/1/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-18 14:33:40.514445 UTC
+SRR16924449,E484D,23014,A,C,gaA/gaC,2660,2652,11/1/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-24 19:19:12.740631 UTC
+SRR16953965,E484D,23014,A,T,gaA/gaT,350,348,9/29/21,Homo sapiens,"USA: California, Los Angeles County",Severe acute respiratory syndrome coronavirus 2,2022-06-25 08:13:30.390669 UTC
+SRR16973418,E484D,23014,A,C,gaA/gaC,3497,3495,11/6/21,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-06-27 09:24:39.286943 UTC
+SRR17006670,E484D,23014,A,C,gaA/gaC,578,320,10/1/21,Homo sapiens,South Africa: Gauteng,Severe acute respiratory syndrome coronavirus 2,2022-06-17 23:11:46.854256 UTC
+SRR17187548,E484D,23014,A,C,gaA/gaC,813,419,2/25/21,Odocoileus virginianus,USA: Ohio,Severe acute respiratory syndrome coronavirus 2,2022-06-25 13:37:56.498553 UTC
+SRR17250754,E484D,23014,A,C,gaA/gaC,322,306,10/22/21,Homo sapiens,USA: Colorado,Severe acute respiratory syndrome coronavirus 2,2022-06-27 15:52:20.478031 UTC
+SRR17263228,E484D,23014,A,C,gaA/gaC,171,130,8/24/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-23 21:37:21.67275 UTC
+SRR17263242,E484D,23014,A,C,gaA/gaC,159,159,8/26/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-20 11:02:03.827012 UTC
+SRR17362824,E484D,23014,A,T,gaA/gaT,68,68,12/9/21,Homo sapiens,USA: Colorado,Severe acute respiratory syndrome coronavirus 2,2022-06-27 03:28:04.455529 UTC
+SRR17386241,E484D,23014,A,T,gaA/gaT,56,52,12/21/21,Homo sapiens,USA: Montana,Severe acute respiratory syndrome coronavirus 2,2022-06-19 21:58:57.557203 UTC
+SRR17433143,E484D,23014,A,C,gaA/gaC,6,5,12/27/21,Homo sapiens,USA: Montana,Severe acute respiratory syndrome coronavirus 2,2022-06-23 04:35:02.844684 UTC
+SRR17433165,E484D,23014,A,C,gaA/gaC,6,5,12/28/21,Homo sapiens,USA: Montana,Severe acute respiratory syndrome coronavirus 2,2022-06-28 01:22:21.152488 UTC
+SRR17437298,E484D,23014,A,T,gaA/gaT,166,164,12/9/21,Homo sapiens,USA: Colorado,Severe acute respiratory syndrome coronavirus 2,2022-06-22 04:13:44.821911 UTC
+SRR17646837,E484D,23014,A,C,gaA/gaC,2149,1182,12/7/21,Homo sapiens,USA: Utah,Severe acute respiratory syndrome coronavirus 2,2022-06-16 23:08:56.455768 UTC
+SRR17670896,E484D,23014,A,T,gaA/gaT,117,117,11/7/21,Homo sapiens,"USA: Oklahoma, 73069",Severe acute respiratory syndrome coronavirus 2,2022-06-16 21:55:19.735349 UTC
+SRR17670897,E484D,23014,A,T,gaA/gaT,114,114,11/5/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-17 12:53:07.768938 UTC
+SRR17670904,E484D,23014,A,T,gaA/gaT,116,116,10/25/21,Homo sapiens,"USA: Oklahoma, 73160",Severe acute respiratory syndrome coronavirus 2,2022-06-16 04:37:05.679769 UTC
+SRR17670943,E484D,23014,A,T,gaA/gaT,112,112,missing,Homo sapiens,missing,Severe acute respiratory syndrome coronavirus 2,2022-06-23 02:34:07.195837 UTC
+SRR17670947,E484D,23014,A,T,gaA/gaT,130,130,11/3/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-22 04:45:11.356149 UTC
+SRR17670987,E484D,23014,A,T,gaA/gaT,35,35,10/14/21,Homo sapiens,"USA: Oklahoma, 73107",Severe acute respiratory syndrome coronavirus 2,2022-06-23 19:43:30.164921 UTC
+SRR17671131,E484D,23014,A,T,gaA/gaT,110,110,11/9/21,Homo sapiens,"USA: Oklahoma, 73160",Severe acute respiratory syndrome coronavirus 2,2022-06-20 08:19:01.35253 UTC
+SRR17671132,E484D,23014,A,T,gaA/gaT,39,39,11/9/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-17 08:06:17.468047 UTC
+SRR17671138,E484D,23014,A,T,gaA/gaT,110,110,11/9/21,Homo sapiens,"USA: Oklahoma, 73160",Severe acute respiratory syndrome coronavirus 2,2022-06-17 12:38:24.314192 UTC
+SRR17671151,E484D,23014,A,T,gaA/gaT,107,107,10/25/21,Homo sapiens,"USA: Oklahoma, 73026",Severe acute respiratory syndrome coronavirus 2,2022-06-28 00:14:32.476342 UTC
+SRR17671152,E484D,23014,A,T,gaA/gaT,119,119,10/21/21,Homo sapiens,"USA: Oklahoma, 73069",Severe acute respiratory syndrome coronavirus 2,2022-06-19 14:17:01.732913 UTC
+SRR17671155,E484D,23014,A,T,gaA/gaT,139,139,11/1/21,Homo sapiens,"USA: Oklahoma, 74857",Severe acute respiratory syndrome coronavirus 2,2022-06-24 16:02:43.330883 UTC
+SRR17671190,E484D,23014,A,T,gaA/gaT,107,107,10/15/21,Homo sapiens,"USA: Oklahoma, 73160",Severe acute respiratory syndrome coronavirus 2,2022-06-22 04:49:43.888405 UTC
+SRR17671202,E484D,23014,A,T,gaA/gaT,100,100,10/17/21,Homo sapiens,"USA: Oklahoma, 73026",Severe acute respiratory syndrome coronavirus 2,2022-06-17 10:12:57.756183 UTC
+SRR17671205,E484D,23014,A,T,gaA/gaT,105,105,10/20/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-18 15:20:01.286646 UTC
+SRR17671211,E484D,23014,A,T,gaA/gaT,163,163,10/17/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-20 21:58:36.366825 UTC
+SRR17671291,E484D,23014,A,T,gaA/gaT,51,51,10/14/21,Homo sapiens,"USA: Oklahoma, 73072",Severe acute respiratory syndrome coronavirus 2,2022-06-22 09:47:14.474729 UTC
+SRR17784817,E484D,23014,A,T,gaA/gaT,343,320,1/10/22,Homo sapiens,USA: Utah,Severe acute respiratory syndrome coronavirus 2,2022-06-17 13:49:25.161214 UTC
+SRR18242078,E484D,23014,A,C,gaA/gaC,3084,3057,missing,missing,missing,Severe acute respiratory syndrome coronavirus 2,2022-06-27 00:33:20.605874 UTC
+SRR18250178,E484D,23014,A,C,gaA/gaC,3702,3426,5/21/21,Mus musculus,Australia:Brisbane,Severe acute respiratory syndrome coronavirus 2,2022-06-16 21:33:32.277706 UTC
+SRR18250183,E484D,23014,A,C,gaA/gaC,3793,3341,5/21/21,Homo sapiens,Australia:Brisbane,Severe acute respiratory syndrome coronavirus 2,2022-06-28 02:49:28.645102 UTC
+SRR18250184,E484D,23014,A,C,gaA/gaC,3675,3425,5/21/21,Homo sapiens,Australia:Brisbane,Severe acute respiratory syndrome coronavirus 2,2022-06-23 01:33:34.257163 UTC
+SRR18389045,E484D,23014,A,C,gaA/gaC,156,100,7/9/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-06-25 07:11:22.35802 UTC
+SRR18533649,E484D,23014,A,T,gaA/gaT,630,610,1/5/22,Homo sapiens,Cameroon: Littoral,Severe acute respiratory syndrome coronavirus 2,2022-06-16 15:12:32.415434 UTC
+SRR18682194,E484D,23014,A,T,gaA/gaT,708,377,8/16/21,Homo sapiens,USA: Montana,Severe acute respiratory syndrome coronavirus 2,2022-06-25 20:16:49.498861 UTC
+SRR18915556,E484D,23014,A,T,gaA/gaT,2,1,,,,,2022-06-16 17:16:24.176116 UTC
+SRR18980256,E484D,23014,A,C,gaA/gaC,32,32,10/27/21,Homo sapiens,USA: Michigan,Severe acute respiratory syndrome coronavirus 2,2022-06-17 21:03:24.769012 UTC
+SRR18990557,E484D,23014,A,T,gaA/gaT,207,207,12/1/21,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-06-22 18:13:09.881645 UTC
+SRR18999896,E484D,23014,A,C,gaA/gaC,104,104,9/2/21,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2022-06-25 07:04:41.94705 UTC
+SRR19000528,E484D,23014,A,C,gaA/gaC,1907,1857,8/23/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-19 10:17:44.458051 UTC
+SRR19003446,E484D,23014,A,C,gaA/gaC,87,87,11/2/21,Homo sapiens,USA: Michigan,Severe acute respiratory syndrome coronavirus 2,2022-06-25 05:09:55.458601 UTC
+SRR19017169,E484D,23014,A,C,gaA/gaC,1838,1638,12/8/21,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-06-17 21:58:43.400635 UTC
+SRR19018334,E484D,23014,A,T,gaA/gaT,555,553,12/4/21,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-06-28 00:06:36.343166 UTC
+SRR19049606,E484D,23014,A,C,gaA/gaC,578,320,10/1/21,Homo sapiens,South Africa: Gauteng,Severe acute respiratory syndrome coronavirus 2,2022-06-24 13:51:53.237047 UTC
+SRR19223004,E484D,23014,A,T,gaA/gaT,3318,545,12/14/21,Homo sapiens,USA: Pennsylvania,Severe acute respiratory syndrome coronavirus 2,2022-06-25 00:44:17.41324 UTC
+SRR19244321,E484D,23014,A,T,gaA/gaT,1013,1013,3/3/21,Homo sapiens,"USA: Texas, Houston",Severe acute respiratory syndrome coronavirus 2,2022-07-03 00:41:06.074784 UTC
+SRR19260573,E484D,23014,A,C,gaA/gaC,1728,1704,12/10/21,Homo sapiens,USA: Kentucky,Severe acute respiratory syndrome coronavirus 2,2022-06-20 01:33:17.632272 UTC
+SRR19274443,E484D,23014,A,T,gaA/gaT,179,63,4/2/21,Homo sapiens,"USA: Texas, Houston",Severe acute respiratory syndrome coronavirus 2,2022-07-01 15:04:17.167104 UTC
+SRR19285354,E484D,23014,A,T,gaA/gaT,4591,4587,12/21/21,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2022-06-16 02:41:53.996141 UTC
+SRR19292184,E484D,23014,A,C,gaA/gaC,1778,656,11/9/21,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-24 16:01:20.764027 UTC
+SRR19294139,E484D,23014,A,T,gaA/gaT,2457,1925,11/9/21,Homo sapiens,USA: Utah,Severe acute respiratory syndrome coronavirus 2,2022-06-24 10:29:30.238632 UTC
+SRR19672393,E484D,23014,A,C,gaA/gaC,1244,1240,5/31/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-06-17 16:41:46.641517 UTC
+SRR19678791,E484D,23014,A,C,gaA/gaC,270,264,5/14/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-06-17 16:08:16.507513 UTC
+SRR19680342,E484D,23014,A,C,gaA/gaC,217,204,5/9/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-06-17 16:14:04.148435 UTC
+SRR19700627,E484D,23014,A,T,gaA/gaT,48,10,5/27/22,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-06-18 04:52:56.707403 UTC
+SRR19719234,E484D,23014,A,C,gaA/gaC,749,749,5/20/22,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-06-18 05:13:22.784276 UTC
+SRR19719997,E484D,23014,A,C,gaA/gaC,651,557,5/23/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-06-18 05:18:25.328341 UTC
+SRR19920698,E484D,23014,A,C,gaA/gaC,151,147,6/13/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-04 14:33:01.12447 UTC
+SRR19950565,E484D,23014,A,C,gaA/gaC,242,192,6/11/22,Homo sapiens,USA: Alabama,Severe acute respiratory syndrome coronavirus 2,2022-07-03 03:59:23.020657 UTC
+SRR20058688,E484D,23014,A,C,gaA/gaC,2334,1310,8/31/21,Homo sapiens,"USA: Texas, Houston",Severe acute respiratory syndrome coronavirus 2,2022-08-31 00:48:23.898603 UTC
+SRR20062071,E484D,23014,A,C,gaA/gaC,2166,1240,8/31/21,Homo sapiens,"USA: Texas, Houston",Severe acute respiratory syndrome coronavirus 2,2022-08-30 13:10:51.155963 UTC
+SRR20126583,E484D,23014,A,C,gaA/gaC,197,194,6/14/22,Homo sapiens,USA: New Mexico,Severe acute respiratory syndrome coronavirus 2,2022-07-14 15:55:32.724647 UTC
+SRR20127494,E484D,23014,A,C,gaA/gaC,705,700,6/17/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-14 05:01:59.357088 UTC
+SRR20132865,E484D,23014,A,C,gaA/gaC,217,204,6/13/22,Homo sapiens,USA: New Mexico,Severe acute respiratory syndrome coronavirus 2,2022-07-15 05:09:28.319508 UTC
+SRR20252151,E484D,23014,A,C,gaA/gaC,86,85,11/10/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-07-16 15:12:31.828597 UTC
+SRR20274548,E484D,23014,A,T,gaA/gaT,50,38,7/2/22,Homo sapiens,USA: Idaho,Severe acute respiratory syndrome coronavirus 2,2022-07-17 09:20:59.283499 UTC
+SRR20305525,E484D,23014,A,C,gaA/gaC,418,411,6/27/22,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-07-20 18:21:50.53613 UTC
+SRR20305824,E484D,23014,A,C,gaA/gaC,505,88,6/2/22,Homo sapiens,Pakistan: Karachi,Severe acute respiratory syndrome coronavirus 2,2022-07-20 16:21:08.671165 UTC
+SRR20322663,E484D,23014,A,C,gaA/gaC,49,49,6/27/22,Homo sapiens,USA: New Mexico,Severe acute respiratory syndrome coronavirus 2,2022-07-20 16:54:13.480833 UTC
+SRR20342680,E484D,23014,A,C,gaA/gaC,199,138,5/7/22,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-07-22 02:57:42.427534 UTC
+SRR20382849,E484D,23014,A,C,gaA/gaC,19,19,5/3/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-22 15:24:05.176974 UTC
+SRR20435817,E484D,23014,A,C,gaA/gaC,342,339,4/23/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-23 06:47:49.213677 UTC
+SRR20440848,E484D,23014,A,C,gaA/gaC,152,144,4/28/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-23 04:43:57.96226 UTC
+SRR20451376,E484D,23014,A,C,gaA/gaC,155,149,4/11/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-23 14:40:26.127008 UTC
+SRR20468482,E484D,23014,A,T,gaA/gaT,218,213,3/20/22,Homo sapiens,USA: Michigan,Severe acute respiratory syndrome coronavirus 2,2022-07-23 15:09:52.510712 UTC
+SRR20507583,E484D,23014,A,T,gaA/gaT,199,195,12/20/21,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2022-07-24 04:31:36.065834 UTC
+SRR20541609,E484D,23014,A,T,gaA/gaT,433,424,12/6/21,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-07-24 19:49:24.079894 UTC
+SRR20557784,E484D,23014,A,C,gaA/gaC,54,54,11/30/21,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2022-07-24 19:31:27.799918 UTC
+SRR20565078,E484D,23014,A,C,gaA/gaC,462,461,4/7/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-25 00:31:07.980814 UTC
+SRR20573077,E484D,23014,A,C,gaA/gaC,165,161,4/20/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-07-25 10:17:20.91715 UTC
+SRR20615457,E484D,23014,A,T,gaA/gaT,151,107,10/26/21,Homo sapiens,USA: Washington,Severe acute respiratory syndrome coronavirus 2,2022-07-27 00:37:41.869467 UTC
+SRR20683179,E484D,23014,A,C,gaA/gaC,526,514,7/8/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-29 23:06:35.689296 UTC
+SRR20756931,E484D,23014,A,C,gaA/gaC,1654,1654,11/2/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-08-31 00:39:28.061433 UTC
+SRR20772303,E484D,23014,A,C,gaA/gaC,510,508,4/24/22,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2022-08-30 23:49:30.753423 UTC
+SRR20772985,E484D,23014,A,C,gaA/gaC,355,355,4/27/22,Homo sapiens,USA: Texas,Severe acute respiratory syndrome coronavirus 2,2022-08-30 11:32:11.783005 UTC
+SRR20774028,E484D,23014,A,C,gaA/gaC,1916,1910,4/8/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-30 01:17:41.650784 UTC
+SRR20790135,E484D,23014,A,C,gaA/gaC,448,435,5/9/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-30 22:49:53.553644 UTC
+SRR20791962,E484D,23014,A,C,gaA/gaC,301,296,5/16/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-30 17:37:01.412927 UTC
+SRR20919623,E484D,23014,A,C,gaA/gaC,379,373,7/15/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-29 23:14:09.986542 UTC
+SRR20925739,E484D,23014,A,T,gaA/gaT,13,13,7/19/22,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-08-31 00:08:46.564967 UTC
+SRR20975805,E484D,23014,A,C,gaA/gaC,3260,2477,11/10/21,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-08-30 16:42:46.753096 UTC
+SRR21044386,E484D,23014,A,C,gaA/gaC,548,548,11/3/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-08-30 04:30:50.237148 UTC
+SRR21115691,E484D,23014,A,C,gaA/gaC,242,221,5/3/22,Homo sapiens,"USA: Arizona, Mohave",Severe acute respiratory syndrome coronavirus 2,2022-09-01 00:52:13.578577 UTC
+SRR21178120,E484D,23014,A,T,gaA/gaT,4451,4440,11/8/21,Homo sapiens,USA: Indiana,Severe acute respiratory syndrome coronavirus 2,2022-09-01 01:44:35.884008 UTC
+SRR21251294,E484D,23014,A,C,gaA/gaC,154,133,11/23/21,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2022-09-22 00:30:15.187663 UTC
+SRR21318429,E484D,23014,A,C,gaA/gaC,16,16,10/28/21,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2022-09-11 01:57:39.48797 UTC
+SRR21337730,E484D,23014,A,C,gaA/gaC,1743,1741,4/6/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-09-10 07:48:06.200195 UTC
+SRR21337974,E484D,23014,A,C,gaA/gaC,2042,2001,4/3/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-09-11 02:43:15.010022 UTC
+SRR21436473,E484D,23014,A,C,gaA/gaC,140,97,12/27/21,Homo sapiens,USA: Montana,Severe acute respiratory syndrome coronavirus 2,2022-09-12 09:37:46.104448 UTC
+SRR21671727,E484D,23014,A,T,gaA/gaT,361,357,9/10/22,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2022-09-27 22:08:17.016403 UTC
+SRR21795402,E484D,23014,A,T,gaA/gaT,342,321,9/15/22,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2022-10-04 09:33:55.146588 UTC
+SRR22232142,E484D,23014,A,T,gaA/gaT,343,328,10/27/22,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2022-11-09 10:31:25.502637 UTC
+SRR22240840,E484D,23014,A,T,gaA/gaT,343,341,10/21/22,Homo sapiens,USA: Nevada,Severe acute respiratory syndrome coronavirus 2,2022-11-09 14:31:55.901787 UTC
+SRR22454805,E484D,23014,A,T,gaA/gaT,29,10,11/11/22,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2024-02-09 04:04:22.800799 UTC
+SRR22584153,E484D,23014,A,T,gaA/gaT,160,160,11/25/22,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2022-12-09 15:41:49.201341 UTC
+SRR22703739,E484D,23014,A,C,gaA/gaC,1120,183,10/10/22,Homo sapiens,Pakistan: Karachi,Severe acute respiratory syndrome coronavirus 2,2022-12-13 20:32:04.950417 UTC
+SRR23086408,E484D,23014,A,C,gaA/gaC,1830,310,1/3/23,Homo sapiens,Pakistan: Karachi,Severe acute respiratory syndrome coronavirus 2,2023-01-16 20:32:29.78933 UTC
+SRR23281566,E484D,23014,A,T,gaA/gaT,267,267,1/17/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-01-31 20:22:07.126272 UTC
+SRR23368775,E484D,23014,A,T,gaA/gaT,25,22,1/21/23,Homo sapiens,USA: Oregon,Severe acute respiratory syndrome coronavirus 2,2023-02-08 20:26:17.334434 UTC
+SRR23493063,E484D,23014,A,T,gaA/gaT,49,49,2/6/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-02-17 01:32:48.175815 UTC
+SRR23651057,E484D,23014,A,C,gaA/gaC,1942,323,2/2/23,Homo sapiens,Pakistan: Karachi,Severe acute respiratory syndrome coronavirus 2,2023-03-01 15:33:33.44862 UTC
+SRR23882054,E484D,23014,A,C,gaA/gaC,347,347,11/10/21,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-03-19 09:40:39.272582 UTC
+SRR24570639,E484D,23014,A,C,gaA/gaC,241,137,12/19/21,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-06-06 15:07:18.841445 UTC
+SRR25002225,E484D,23014,A,C,gaA/gaC,343,66,5/14/23,Homo sapiens,Pakistan: Karachi,Severe acute respiratory syndrome coronavirus 2,2023-06-29 14:38:22.454812 UTC
+SRR25229656,E484D,23014,A,T,gaA/gaT,99,99,6/21/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:24:31.21993 UTC
+SRR25414321,E484D,23014,A,C,gaA/gaC,119,39,6/28/22,Homo sapiens,"USA: California, North America, San Diego",Severe acute respiratory syndrome coronavirus 2,2023-08-23 04:16:29.365468 UTC
+SRR25696300,E484D,23014,A,T,gaA/gaT,955,176,8/10/22,Homo sapiens,"USA: Texas, Houston",Severe acute respiratory syndrome coronavirus 2,2024-01-11 15:58:03.971529 UTC
+SRR25708671,E484D,23014,A,T,gaA/gaT,269,265,8/3/23,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:34:53.869192 UTC
+SRR25724696,E484D,23014,A,T,gaA/gaT,227,220,8/8/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:26:10.913734 UTC
+SRR25811970,E484D,23014,A,T,gaA/gaT,153,151,8/16/23,Homo sapiens,USA: Georgia,Severe acute respiratory syndrome coronavirus 2,2023-11-28 16:15:34.114294 UTC
+SRR25870642,E484D,23014,A,T,gaA/gaT,233,226,8/9/23,Homo sapiens,USA: California,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:55:08.927637 UTC
+SRR26044074,E484D,23014,A,T,gaA/gaT,211,177,8/25/23,Homo sapiens,USA: Maryland,Severe acute respiratory syndrome coronavirus 2,2023-11-29 19:56:58.844832 UTC
+SRR26083494,E484D,23014,A,C,gaA/gaC,98,66,3/26/20,Homo sapiens,Australia: Sydney,Severe acute respiratory syndrome coronavirus 2,2025-05-12 14:31:18.226945 UTC
+SRR26083495,E484D,23014,A,C,gaA/gaC,213,79,3/26/20,Homo sapiens,Australia: Sydney,Severe acute respiratory syndrome coronavirus 2,2025-05-12 15:09:51.532264 UTC
+SRR26105010,E484D,23014,A,T,gaA/gaT,180,180,9/5/23,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2023-11-30 01:07:19.601345 UTC
+SRR26105059,E484D,23014,A,T,gaA/gaT,59,53,9/8/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-11-28 16:12:04.190306 UTC
+SRR26105285,E484D,23014,A,T,gaA/gaT,154,144,9/11/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-11-29 16:27:07.78203 UTC
+SRR26174360,E484D,23014,A,T,gaA/gaT,195,195,9/10/23,Homo sapiens,USA: Delaware,Severe acute respiratory syndrome coronavirus 2,2023-11-29 20:52:16.093704 UTC
+SRR26174549,E484D,23014,A,T,gaA/gaT,62,62,9/9/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:50:32.511873 UTC
+SRR26174656,E484D,23014,A,T,gaA/gaT,199,194,9/14/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-11-29 16:49:47.159135 UTC
+SRR26174708,E484D,23014,A,T,gaA/gaT,244,228,9/10/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-28 16:20:37.566453 UTC
+SRR26174901,E484D,23014,A,T,gaA/gaT,116,112,9/13/23,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2023-11-29 19:37:35.653027 UTC
+SRR26175142,E484D,23014,A,T,gaA/gaT,108,101,9/8/23,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2023-11-29 23:22:23.035914 UTC
+SRR26261937,E484D,23014,A,T,gaA/gaT,180,180,9/21/23,Homo sapiens,USA: Pennsylvania,Severe acute respiratory syndrome coronavirus 2,2023-11-29 18:12:15.446115 UTC
+SRR26261953,E484D,23014,A,T,gaA/gaT,33,24,9/18/23,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:36:55.887428 UTC
+SRR26261977,E484D,23014,A,T,gaA/gaT,74,74,9/22/23,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2023-11-29 16:18:01.296918 UTC
+SRR26330748,E484D,23014,A,T,gaA/gaT,71,69,9/18/23,Homo sapiens,USA: Colorado,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:41:38.136703 UTC
+SRR26330900,E484D,23014,A,T,gaA/gaT,330,317,9/20/23,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:43:39.255289 UTC
+SRR26330901,E484D,23014,A,T,gaA/gaT,79,70,9/20/23,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2023-11-29 22:01:53.361428 UTC
+SRR26403628,E484D,23014,A,T,gaA/gaT,74,71,10/3/23,Homo sapiens,USA: Virginia,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:52:28.84182 UTC
+SRR26403772,E484D,23014,A,T,gaA/gaT,87,85,10/2/23,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:35:00.458449 UTC
+SRR26424955,E484D,23014,A,C,gaA/gaC,245,245,9/10/23,,USA: California,wastewater metagenome,2023-10-29 14:55:26.030758 UTC
+SRR26425053,E484D,23014,A,C,gaA/gaC,97,97,9/19/23,,USA: California,wastewater metagenome,2023-10-29 15:15:19.261096 UTC
+SRR26492645,E484D,23014,A,T,gaA/gaT,80,80,10/8/23,Homo sapiens,USA: Maryland,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:49:49.728881 UTC
+SRR26669151,E484D,23014,A,C,gaA/gaC,229,178,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:48.756967 UTC
+SRR26669153,E484D,23014,A,C,gaA/gaC,213,162,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:23:25.631274 UTC
+SRR26669155,E484D,23014,A,C,gaA/gaC,206,162,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:09.763151 UTC
+SRR26669159,E484D,23014,A,C,gaA/gaC,212,103,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:25:26.04885 UTC
+SRR26669163,E484D,23014,A,C,gaA/gaC,182,50,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-11 15:18:41.359556 UTC
+SRR26669165,E484D,23014,A,C,gaA/gaC,157,25,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:20:09.799887 UTC
+SRR26669217,E484D,23014,A,C,gaA/gaC,202,172,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:28.149593 UTC
+SRR26669220,E484D,23014,A,C,gaA/gaC,173,129,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-11 15:19:12.818508 UTC
+SRR26669223,E484D,23014,A,C,gaA/gaC,196,145,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:13.292067 UTC
+SRR26669226,E484D,23014,A,C,gaA/gaC,215,135,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:22:16.739872 UTC
+SRR26669272,E484D,23014,A,C,gaA/gaC,163,110,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:19:59.874989 UTC
+SRR26669275,E484D,23014,A,C,gaA/gaC,228,127,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:43.622852 UTC
+SRR26669278,E484D,23014,A,C,gaA/gaC,184,69,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-11 15:18:32.50674 UTC
+SRR26669340,E484D,23014,A,C,gaA/gaC,182,58,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-11 15:18:42.533357 UTC
+SRR26669343,E484D,23014,A,C,gaA/gaC,150,56,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-11 15:18:39.772583 UTC
+SRR26669345,E484D,23014,A,C,gaA/gaC,235,79,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:21:41.912087 UTC
+SRR26669347,E484D,23014,A,C,gaA/gaC,187,64,2022,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-10 15:24:43.576975 UTC
+SRR26838566,E484D,23014,A,T,gaA/gaT,184,184,11/1/23,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2023-12-21 16:45:01.182196 UTC
+SRR26838795,E484D,23014,A,T,gaA/gaT,27,27,11/2/23,Homo sapiens,USA: Maryland,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:46:12.137508 UTC
+SRR26899889,E484D,23014,A,T,gaA/gaT,171,159,11/1/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:22:52.129391 UTC
+SRR26900280,E484D,23014,A,T,gaA/gaT,134,134,11/6/23,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:23:11.642711 UTC
+SRR26900355,E484D,23014,A,T,gaA/gaT,178,175,11/6/23,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2023-11-28 15:31:38.962268 UTC
+SRR27061797,E484D,23014,A,T,gaA/gaT,230,229,11/17/23,Homo sapiens,USA: New York,Severe acute respiratory syndrome coronavirus 2,2023-12-06 16:07:38.879933 UTC
+SRR27061902,E484D,23014,A,T,gaA/gaT,48,27,11/14/23,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2023-12-06 16:04:37.157959 UTC
+SRR27062125,E484D,23014,A,T,gaA/gaT,96,96,11/20/23,Homo sapiens,USA: Massachusetts,Severe acute respiratory syndrome coronavirus 2,2023-12-06 16:02:56.353808 UTC
+SRR27062217,E484D,23014,A,T,gaA/gaT,155,152,11/13/23,Homo sapiens,USA: Arizona,Severe acute respiratory syndrome coronavirus 2,2023-12-06 16:05:37.801829 UTC
+SRR27062270,E484D,23014,A,T,gaA/gaT,46,38,11/21/23,Homo sapiens,USA: Pennsylvania,Severe acute respiratory syndrome coronavirus 2,2023-12-06 16:04:41.946965 UTC
+SRR27127958,E484D,23014,A,C,gaA/gaC,1724,1721,11/12/22,,Japan,Severe acute respiratory syndrome coronavirus 2,2023-12-08 15:18:33.709512 UTC
+SRR27140505,E484D,23014,A,C,gaA/gaC,1819,1819,11/12/22,,Japan,Severe acute respiratory syndrome coronavirus 2,2023-12-09 15:39:20.275775 UTC
+SRR27182857,E484D,23014,A,T,gaA/gaT,292,289,11/29/23,Homo sapiens,USA: Wisconsin,Severe acute respiratory syndrome coronavirus 2,2023-12-13 15:46:34.291479 UTC
+SRR27182959,E484D,23014,A,T,gaA/gaT,309,308,11/30/23,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2023-12-13 15:38:57.658734 UTC
+SRR27278696,E484D,23014,A,T,gaA/gaT,253,253,12/6/23,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2023-12-20 15:35:20.93791 UTC
+SRR27279173,E484D,23014,A,T,gaA/gaT,282,280,12/6/23,Homo sapiens,USA: New Jersey,Severe acute respiratory syndrome coronavirus 2,2023-12-20 15:38:46.538016 UTC
+SRR27340125,E484D,23014,A,T,gaA/gaT,476,470,12/11/23,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2023-12-26 15:34:08.270217 UTC
+SRR27340205,E484D,23014,A,T,gaA/gaT,257,257,12/16/23,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2023-12-26 15:39:41.957515 UTC
+SRR27397441,E484D,23014,A,T,gaA/gaT,239,237,10/26/23,Homo sapiens,USA: Illinois,Severe acute respiratory syndrome coronavirus 2,2024-01-03 15:22:26.825959 UTC
+SRR27499292,E484D,23014,A,T,gaA/gaT,111,109,12/26/23,Homo sapiens,USA: Florida,Severe acute respiratory syndrome coronavirus 2,2024-01-13 16:03:57.775495 UTC
+SRR27557444,E484D,23014,A,T,gaA/gaT,83,83,1/4/24,Homo sapiens,USA: North Carolina,Severe acute respiratory syndrome coronavirus 2,2024-01-17 15:43:12.309656 UTC
+SRR27685483,E484D,23014,A,C,gaA/gaC,1500,1500,11/12/22,,Japan,Severe acute respiratory syndrome coronavirus 2,2024-01-25 01:18:45.711448 UTC
+SRR27685484,E484D,23014,A,C,gaA/gaC,1844,1842,11/12/22,,Japan,Severe acute respiratory syndrome coronavirus 2,2024-01-25 01:19:18.95262 UTC
+SRR27884815,E484D,23014,A,T,gaA/gaT,76,43,1/18/24,Homo sapiens,USA: Ohio,Severe acute respiratory syndrome coronavirus 2,2024-02-08 05:00:51.109803 UTC
+SRR28565292,E484D,23014,A,T,gaA/gaT,2448,2386,11/24/21,Homo sapiens,Burkina Faso,Severe acute respiratory syndrome coronavirus 2,2024-09-01 19:59:04.860044 UTC
+SRR28565293,E484D,23014,A,T,gaA/gaT,3863,3764,11/24/21,Homo sapiens,Burkina Faso,Severe acute respiratory syndrome coronavirus 2,2024-09-01 20:01:39.873776 UTC
+SRR28565335,E484D,23014,A,T,gaA/gaT,2179,2120,11/9/21,Homo sapiens,Burkina Faso,Severe acute respiratory syndrome coronavirus 2,2024-09-01 20:00:00.857124 UTC
+SRR30275118,E484D,23014,A,C,gaA/gaC,2401,508,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:42:16.222297 UTC
+SRR30275119,E484D,23014,A,C,gaA/gaC,4342,692,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 15:45:21.122028 UTC
+SRR30275127,E484D,23014,A,C,gaA/gaC,5316,1097,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:06:55.137818 UTC
+SRR30275132,E484D,23014,A,C,gaA/gaC,5280,848,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 15:12:06.158492 UTC
+SRR30275133,E484D,23014,A,C,gaA/gaC,5815,1170,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:47:24.927768 UTC
+SRR30275134,E484D,23014,A,C,gaA/gaC,5841,1057,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 15:20:17.346349 UTC
+SRR30275135,E484D,23014,A,C,gaA/gaC,5616,876,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:22:08.576085 UTC
+SRR30275136,E484D,23014,A,C,gaA/gaC,4112,835,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:11:49.575373 UTC
+SRR30275137,E484D,23014,A,C,gaA/gaC,5244,915,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:38:16.048633 UTC
+SRR30275139,E484D,23014,A,C,gaA/gaC,4423,874,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:09:54.585906 UTC
+SRR30275140,E484D,23014,A,C,gaA/gaC,4354,784,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 15:40:12.864698 UTC
+SRR30275143,E484D,23014,A,C,gaA/gaC,5511,909,2020,Hamster,Brazil,Severe acute respiratory syndrome coronavirus 2,2024-08-17 16:56:57.547709 UTC
+SRR31289505,E484D,23014,A,T,gaA/gaT,908,908,12/3/21,Homo sapiens,"USA: Washington, Whitman County",Severe acute respiratory syndrome coronavirus 2,2024-11-10 16:36:50.667703 UTC
+SRR31291046,E484D,23014,A,T,gaA/gaT,284,284,11/29/21,Homo sapiens,"USA: Washington, Whitman County",Severe acute respiratory syndrome coronavirus 2,2024-11-09 16:43:58.032194 UTC
+SRR31291209,E484D,23014,A,T,gaA/gaT,889,889,11/30/21,Homo sapiens,"USA: Washington, Whitman County",Severe acute respiratory syndrome coronavirus 2,2024-11-10 17:59:08.857396 UTC
+SRR31291295,E484D,23014,A,T,gaA/gaT,1604,1604,12/3/21,Homo sapiens,"USA: Washington, Whitman County",Severe acute respiratory syndrome coronavirus 2,2024-11-09 17:27:38.829354 UTC
+SRR37088524,E484D,23014,A,T,gaA/gaT,156,156,1/26/25,,USA: Ohio,wastewater metagenome,2026-02-04 15:22:25.671757 UTC

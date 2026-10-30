@@ -1,0 +1,11 @@
+# Source: LAPIS/CoV-Spectrum query, GenBank INSDC genomes, run 12 Oct 2026.
+# Values transcribed from the manuscript Methods (Figure 10A). The raw query output was not retained.
+amino_acid,nucleotide_change,codon,genomes,frequency,lineage
+Parental (E484),reference,GAA,,,reference
+E484A,23013 A>C,GCA,4306700,0.4562,Omicron
+E484K,23012 G>A,AAA,370685,0.0393,Beta/Gamma/Mu
+E484Q,23012 G>C,CAA,8237,0.00087,Kappa
+E484D,23014 A>C / A>T,GAC / GAT,229,0.0000243,no lineage
+E484G,23013 A>G,GGA,170,0.0000180,no lineage
+E484V,23013 A>T,GTA,0,,not observed
+total_genomes,9438404,,,,
