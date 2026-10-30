@@ -5,8 +5,8 @@ Scripts and tables for Figure 10A (codon 484 substitution landscape) and 10B (E4
 ## Panel A
 
 - **Script:** `figure10_panelA_color.R`. Run `Rscript figure10_panelA_color.R`. Writes `Figure10-panelA-color.pdf` and `.png` (600 dpi).
-- **Input:** `lapis_codon484_counts.csv`. The counts are typed into the script, not read from this file. The file records the same values for reference.
-- **Source:** LAPIS/CoV-Spectrum, GenBank INSDC genomes, 12 Oct 2026. The query itself is not included. Values were transcribed from the manuscript Methods.
+- **Input:** `lapis_codon484_counts.csv`. The counts are typed into the script, not read from this file. The same values are in this file.
+- **Source:** LAPIS/CoV-Spectrum, GenBank INSDC genomes, 12 Oct 2026. The query is `query_lapis_codon484.py` (see below). Values were transcribed from the manuscript Methods.
 - **Colours:** Omicron, Beta/Gamma/Mu and Kappa are coloured by lineage. E484D is teal (`#0F9D9A`), as in the legend. Blue and orange are reserved for the 23014 A>C and A>T routes in panel B.
 - **Software:** R 4.3.1, ggplot2 3.4.4, scales 1.2.1.
 
