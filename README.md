@@ -30,6 +30,14 @@ Scripts and tables for Figure 10A (codon 484 substitution landscape) and 10B (E4
 
 Clinical surveillance 227 (226 + the mAb run). Animal 17 (15 experimental + 1 wild deer + the MA1 lung point). Cell culture and drug selection 39 (15 + 23 + the MA1 supernatant point). Wastewater 14. Unspecified 111. Total 408 = 406 runs + 2 MA1 points.
 
+## Panel A counts (LAPIS query)
+
+`lapis_codon484_counts.csv` holds the counts used in Figure 10A: LAPIS/CoV-Spectrum, 12 Oct 2026, 9,438,404 genomes.
+
+`query_lapis_codon484.py` is the query method. It sends one request per change to the LAPIS open endpoint (`sars_cov-2_nextstrain_open`, `aminoAcidMutations=S:E484X`) and saves each raw response with its URL and data version.
+
+A rerun on 30 Oct 2026 (dataVersion 1793206838) matches the 12 Oct counts for E484D (229), E484G (170) and E484Q (8,237). It differs for the total (9,440,664), E484A (4,306,732), E484K (372,805) and E484V (2,746). The database was updated after 12 Oct. The manuscript keeps the 12 Oct values.
+
 ## Run order
 
 ```bash
@@ -37,11 +45,11 @@ export NCBI_EMAIL=you@example.org
 python3 fetch_sra_metadata.py                 # optional: rebuilds sra_run_metadata.csv
 python3 plot_figure10_final.py                # optional: prints context counts
 python3 make_panelB_regrouped.py              # rebuilds panelB_data_regrouped.csv
+python3 query_lapis_codon484.py lapis_raw   # optional: rerun the LAPIS query
 Rscript figure10_panelA_color.R
 Rscript figure10_panelB_regrouped.R
 ```
 
 ## Known gaps
 
-- The LAPIS/CoV-Spectrum query behind panel A is not in this folder.
 - Run SRR18915556 has no metadata in NCBI SRA or ENA, so it is classed as Unspecified by default. The manuscript counts it.
